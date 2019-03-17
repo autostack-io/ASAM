@@ -15,7 +15,7 @@ ASAM is an API management developed by Autostack Community.
 ## Install and Build
 Clone the repository and submodules:
 ```sh
-$ git clone https://github.com/autostack-io/api-manager.git
+$ git clone https://github.com/autostack-io/ASAM.git
 $ cd api-manager
 $ git submodule init && git submodule update
 ```
