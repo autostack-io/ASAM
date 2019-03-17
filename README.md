@@ -5,6 +5,7 @@
 Clone the repository and submodules:
 ```
 git clone https://github.com/autostack-io/api-manager.git
+cd api-manager
 git submodule init && git submodule update
 ```
 
