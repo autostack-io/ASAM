@@ -11,7 +11,7 @@ git submodule init && git submodule update
 
 Run this commands on `api-manager-client` folder:
 ```
-cd api-manager-client
+cd client
 npm install && npm run build
 ```
 
@@ -22,6 +22,6 @@ cd ..
 
 Run this commands on `api-manager-server` folder:
 ```
-cd api-manager-server
+cd server
 npm install && npm run build
 ```
