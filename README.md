@@ -1,4 +1,9 @@
 # ASAM
+## Summary
+- About
+  - What's ASAM
+  - Features
+- Install and Build
 
 ## About
 
@@ -9,6 +14,7 @@ ASAM is an API management developed by Autostack Community.
 
 ### Features
 - API Gateway
+- API Discovery
 - Load Balancer
 - Access Control
 
