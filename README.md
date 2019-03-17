@@ -10,18 +10,15 @@ $ git clone https://github.com/autostack-io/api-manager.git
 $ cd api-manager
 $ git submodule init && git submodule update
 ```
-
 Run this commands on `client` folder:
 ```sh
 $ cd client
 $ npm install && npm run build
 ```
-
 Go back to the previous directory
 ```sh
 $ cd ..
 ```
-
 Run this commands on `server` folder:
 ```sh
 $ cd server
