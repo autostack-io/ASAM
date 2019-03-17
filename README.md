@@ -16,23 +16,22 @@ ASAM is an API management developed by Autostack Community.
 - Access Control
 
 ## Install and Build
-Clone the repository and submodules:
+Clone the repository:
 ```sh
 $ git clone https://github.com/autostack-io/ASAM.git
-$ cd api-manager
-$ git submodule init && git submodule update
+$ cd ASAM
 ```
-Run this commands on `client` folder:
+Run this commands on `dashboard` folder:
 ```sh
-$ cd client
+$ cd dashboard
 $ npm install && npm run build
 ```
 Go back to the previous directory
 ```sh
 $ cd ..
 ```
-Run this commands on `server` folder:
+Run this commands on `controller` folder:
 ```sh
-$ cd server
+$ cd controller
 $ npm install && npm run build
 ```
