@@ -1,6 +1,6 @@
 [submodule "api-manager-server"]
-	path = server
+	path = api-manager-server
 	url = git@github.com:autostack-io/api-manager-server.git
 [submodule "api-manager-client"]
-	path = client
+	path = api-manager-client
 	url = git@github.com:autostack-io/api-manager-client.git
