@@ -2,7 +2,7 @@
 
 ## Install and Build
 
-Clone the repository:
+Clone the repository and submodules:
 ```
 git clone https://github.com/autostack-io/api-manager.git
 git submodule init && git submodule update
