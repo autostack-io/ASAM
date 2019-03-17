@@ -9,7 +9,7 @@ cd api-manager
 git submodule init && git submodule update
 ```
 
-Run this commands on `api-manager-client` folder:
+Run this commands on `client` folder:
 ```
 cd client
 npm install && npm run build
@@ -20,7 +20,7 @@ Go back to the previous directory
 cd ..
 ```
 
-Run this commands on `api-manager-server` folder:
+Run this commands on `server` folder:
 ```
 cd server
 npm install && npm run build
